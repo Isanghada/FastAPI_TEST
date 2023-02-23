@@ -1,0 +1,4 @@
+**/venvs
+**/.idea
+**/__pycache__
+**/.vscode
